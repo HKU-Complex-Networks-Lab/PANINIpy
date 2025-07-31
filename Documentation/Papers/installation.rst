@@ -11,15 +11,15 @@ For users who prefer installing dependencies manually, we provide a requirements
 
 .. code-block:: console
     
-    git clone https://github.com/baiyueh/PANINIpy.git
+    git clone https://github.com/HKU-Complex-Networks-Lab/PANINIpy.git
     cd PANINIpy
     pip install -r requirements.txt
 
 
 **Source Code and Discussion Channel**
 
-Available on Github, `baiyueh/PANINIpy <https://github.com/baiyueh/PANINIpy/>`_.
-Please report bugs, issues and feature extensions there. We also have `discussion channel <https://github.com/baiyueh/PANINIpy/discussions>`_ available to discuss anything related to *PANINIpy*:
+Available on Github, `HKU-Complex-Networks-Lab/PANINIpy <https://github.com/HKU-Complex-Networks-Lab/PANINIpy/>`_.
+Please report bugs, issues and feature extensions there. We also have `discussion channel <https://github.com/HKU-Complex-Networks-Lab/PANINIpy/discussions>`_ available to discuss anything related to *PANINIpy*:
 
 
 **Minimal Working Example**
@@ -62,7 +62,7 @@ To run the tests manually, users need to clone the *PANINIpy* GitHub repository 
 
    .. code-block:: console
 
-       git clone https://github.com/baiyueh/PANINIpy.git
+       git clone https://github.com/HKU-Complex-Networks-Lab/PANINIpy.git
        cd PANINIpy
 
 2. **Install the Required Packages**: Ensure all dependencies, including `pytest`, are installed by running the following commands:
@@ -81,5 +81,5 @@ To run the tests manually, users need to clone the *PANINIpy* GitHub repository 
 
 4. **View the Results**: The output will display any failed tests and provide detailed information on each failed test case.
 
-GitHub Actions runs these tests automatically with the latest stable versions of Python and relevant dependencies each time code is pushed to the repository or a pull request is made. For more information about workflows runs, see `Workflows <https://github.com/baiyueh/PANINIpy/actions>`_ in the repository.
+GitHub Actions runs these tests automatically with the latest stable versions of Python and relevant dependencies each time code is pushed to the repository or a pull request is made. For more information about workflows runs, see `Workflows <https://github.com/HKU-Complex-Networks-Lab/PANINIpy/actions>`_ in the repository.
 
